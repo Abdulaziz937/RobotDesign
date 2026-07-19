@@ -51,13 +51,13 @@ Total = 15 DOF
 
 The robot uses high-torque servo motors for precise joint control.
 
-Recommended motors:
+# **Recommended motors:**
 
 Dynamixel XL430
 MG996R (low-cost prototype)
 Robotis Dynamixel XM430 (advanced version)
 
-Motor requirements:
+# **Motor requirements:**
 
 High torque
 Position feedback
@@ -84,7 +84,7 @@ T=3.53 N⋅m
 
 Required motor torque ≥ 4 N·m (including a safety factor).
 
-6. Stability and Center of Gravity
+# **6. Stability and Center of Gravity**
 
 The center of gravity (CoG) is positioned near the middle of the robot's body and kept as low as possible by placing the battery and electronics in the lower section of the chassis.
 
@@ -97,7 +97,7 @@ Even weight distribution
 
 The robot remains stable as long as the center of gravity stays within the support polygon formed by the legs touching the ground.
 
-7. Proposed Walking Method
+# **7. Walking Method**
 
 The robot uses a Trot Gait.
 
@@ -107,13 +107,8 @@ Front Left + Rear Right move together.
 Front Right + Rear Left move together.
 Repeat the cycle.
 
-Advantages:
+# **8. Expected Mechanical Problems**
 
-Faster than crawling gait
-Good stability
-Energy efficient
-Commonly used in robotic dogs
-8. Expected Mechanical Problems
 Servo motor overheating during continuous operation
 Joint wear after long-term use
 Reduced traction on smooth surfaces
