@@ -1,13 +1,13 @@
-##**initial Design of a RobotDog focuses on studying and analyzing the mechanical fundamentals enabling the robot to stand and walk.**
+## **initial Design of a RobotDog focuses on studying and analyzing the mechanical fundamentals enabling the robot to stand and walk.**
 
 
-#**RobotDesign**
+# **RobotDesign**
 
 1. Body and Frame Shape
 
 The robotic dog has a quadruped (four-legged) design inspired by a medium-sized dog. The body consists of a lightweight aluminum frame covered with durable ABS plastic panels. The battery, controller, and sensors are placed inside the body to keep the center of gravity low and improve stability.
 
-#**Specifications**
+# **Specifications**
 
 Length: 60 cm
 Width: 25 cm
