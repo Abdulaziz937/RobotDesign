@@ -1,7 +1,7 @@
 initial Design of a RobotDog focuses on studying and analyzing the mechanical fundamentals enabling the robot to stand and walk.
 
 
-RobotDesign
+**RobotDesign**
 
 1. Body and Frame Shape
 
